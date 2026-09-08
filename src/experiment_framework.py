@@ -13,8 +13,6 @@ retention) metrics. Implements the statistics used throughout this project:
 These are written from first principles (rather than only calling
 statsmodels) so the math is transparent, and cross-checked against
 statsmodels where an implementation exists.
-
-Author: Viku
 """
 from __future__ import annotations
 
